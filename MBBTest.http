@@ -1,0 +1,6 @@
+@MBBTest_HostAddress = http://localhost:5128
+
+GET {{MBBTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
